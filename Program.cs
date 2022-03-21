@@ -10,31 +10,11 @@ namespace cursoCs
     {
         static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente();
-            conta.titular = new Cliente();
 
-            conta.titular.nome = "João";
-            conta.titular.cpf = "123.345.532-20";
-            conta.titular.profissao = "Developer";
+            ContaCorrente conta = new ContaCorrente(839, 8327483);
 
-            conta.saldo = 100;
-            conta.numeroAgencia = 563;
-            conta.numero = 5634527;
-
-            Console.WriteLine(conta.titular.nome);
-            Console.WriteLine(conta.titular.cpf);
-            Console.WriteLine(conta.titular.profissao);
-            Console.WriteLine(conta.saldo);
-            Console.WriteLine(conta.numero);
-            Console.WriteLine(conta.numeroAgencia);
-
-
-
-
-
-
-
-
+            Console.WriteLine(conta.Numero);
+            Console.Write(conta.Agencia);
 
         }
     }
