@@ -10,12 +10,14 @@ namespace cursoCs
     {
         static void Main(string[] args)
         {
-
             ContaCorrente conta = new ContaCorrente(839, 8327483);
 
-            Console.WriteLine(conta.Numero);
-            Console.Write(conta.Agencia);
-            Console.Write("Ola");
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
+            ContaCorrente conta2 = new ContaCorrente(834, 8323383);
+
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
 
         }
     }

@@ -9,6 +9,7 @@ namespace cursoCs
     public class ContaCorrente
     {
         public Cliente Titular { get; set; }
+        public static int TotalDeContasCriadas { get; set; }
         private int _numero;
         public int Numero
         {
@@ -72,6 +73,7 @@ namespace cursoCs
         {
             Agencia = _agencia;
             Numero = _numero;
+            TotalDeContasCriadas++;
         }
 
         //Metodo com retorno
