@@ -1,0 +1,15 @@
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.csproj.AssemblyReference.cache
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.AssemblyInfoInputs.cache
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.AssemblyInfo.cs
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.csproj.CoreCompileInputs.cache
+C:\Users\joao.psilva\Desktop\CS\bin\Debug\net6.0\cursoCs.exe
+C:\Users\joao.psilva\Desktop\CS\bin\Debug\net6.0\cursoCs.deps.json
+C:\Users\joao.psilva\Desktop\CS\bin\Debug\net6.0\cursoCs.runtimeconfig.json
+C:\Users\joao.psilva\Desktop\CS\bin\Debug\net6.0\cursoCs.dll
+C:\Users\joao.psilva\Desktop\CS\bin\Debug\net6.0\ref\cursoCs.dll
+C:\Users\joao.psilva\Desktop\CS\bin\Debug\net6.0\cursoCs.pdb
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.dll
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\ref\cursoCs.dll
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.pdb
+C:\Users\joao.psilva\Desktop\CS\obj\Debug\net6.0\cursoCs.genruntimeconfig.cache
